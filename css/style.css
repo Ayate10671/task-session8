@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right, #1f4037, #99f2c8);
+}
+
+.container h1{
+ font-size: 4rem;
+ font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+.container p{
+ font-family: "Lucida Console", "Courier New", monospace;
+    
+}
